@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\super-heroi-api.props" />
+</Project>

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\models\\superpoderes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:models\\superpoderes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\controllers\\superpoderescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:controllers\\superpoderescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\models\\heroissuperpoderes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:models\\heroissuperpoderes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\models\\herois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:models\\herois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\models\\dto\\cadastrarheroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:models\\dto\\cadastrarheroi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|c:\\users\\alice.silva\\downloads\\super-heroi-api\\super-heroi-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E963702-5C2B-4AD9-A17A-499A9A9934CC}|super-heroi-api.csproj|solutionrelative:super-heroi-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAgwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:48:58.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Superpoderes.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\Superpoderes.cs",
+              "RelativeDocumentMoniker": "Models\\Superpoderes.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\Superpoderes.cs",
+              "RelativeToolTip": "Models\\Superpoderes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:09:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Herois.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\Herois.cs",
+              "RelativeDocumentMoniker": "Models\\Herois.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\Herois.cs",
+              "RelativeToolTip": "Models\\Herois.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:47:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeroisSuperpoderes.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\HeroisSuperpoderes.cs",
+              "RelativeDocumentMoniker": "Models\\HeroisSuperpoderes.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\HeroisSuperpoderes.cs",
+              "RelativeToolTip": "Models\\HeroisSuperpoderes.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:29:14.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperpoderesController.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Controllers\\SuperpoderesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuperpoderesController.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Controllers\\SuperpoderesController.cs",
+              "RelativeToolTip": "Controllers\\SuperpoderesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:35:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:10:59.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T11:04:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroisController.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Controllers\\HeroisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HeroisController.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Controllers\\HeroisController.cs",
+              "RelativeToolTip": "Controllers\\HeroisController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:25:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:50:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastrarHeroi.cs",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\DTO\\CadastrarHeroi.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\CadastrarHeroi.cs",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\Models\\DTO\\CadastrarHeroi.cs",
+              "RelativeToolTip": "Models\\DTO\\CadastrarHeroi.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:21:33.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "super-heroi-api.csproj",
+              "DocumentMoniker": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\super-heroi-api.csproj",
+              "RelativeDocumentMoniker": "super-heroi-api.csproj",
+              "ToolTip": "C:\\Users\\alice.silva\\Downloads\\super-heroi-api\\super-heroi-api.csproj",
+              "RelativeToolTip": "super-heroi-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T10:46:52.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
